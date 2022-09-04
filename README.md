@@ -16,8 +16,10 @@ You may also see any lint errors in the console.
 
 
 ### folder description
+```shell
 - react # react code source
   - component # React.Component module
   - element # React.createElement function
   - unit # React render base markup(tag)
   - index.js # entry file of create-react-app
+  ```
